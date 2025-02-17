@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\bin\Debug\net8.0\Library Management System -- OOP.exe
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\bin\Debug\net8.0\Library Management System -- OOP.deps.json
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\bin\Debug\net8.0\Library Management System -- OOP.runtimeconfig.json
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\bin\Debug\net8.0\Library Management System -- OOP.dll
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\bin\Debug\net8.0\Library Management System -- OOP.pdb
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\obj\Debug\net8.0\Library Management System -- OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\obj\Debug\net8.0\Library Management System -- OOP.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\obj\Debug\net8.0\Library Management System -- OOP.AssemblyInfo.cs
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\obj\Debug\net8.0\Library Management System -- OOP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\obj\Debug\net8.0\Library Management System -- OOP.dll
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\obj\Debug\net8.0\refint\Library Management System -- OOP.dll
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\obj\Debug\net8.0\Library Management System -- OOP.pdb
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\obj\Debug\net8.0\Library Management System -- OOP.genruntimeconfig.cache
+C:\Users\DELL\Desktop\BACKEND\C#\Library Management System -- OOP\Library Management System -- OOP\obj\Debug\net8.0\ref\Library Management System -- OOP.dll
